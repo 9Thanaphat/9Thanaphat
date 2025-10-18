@@ -1,7 +1,7 @@
 ## Contribution
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9thanaphat&theme=dark&show_icons=true)<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=9thanaphat&theme=tokyonight&show_icons=true)<br>
 ## Programming Language
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thanaphat&theme=dark&hide=roff)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thanaphat&theme=tokyonight&hide=roff)<br>
 ## Frontend
 <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/></a>
