@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thanaphat&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9thanaphat&layout=compact&theme=radical&hide=roff)
 
 ## Tech Stack
 <div align="center">
