@@ -1,6 +1,6 @@
 ## Programming Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9thanaphat&layout=compact&theme=github-dark&hide=roff">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=9thanaphat&layout=compact&theme=synthwave&hide=roff">
 </div>
 
 ## Tech Stack
