@@ -2,6 +2,7 @@
 
 🎓 **Computer Engineering Student**  
 Rajamangala University of Technology Thanyaburi (RMUTT)
+🎯 **Cadet at 42 Bangkok**
 
 ---
 
