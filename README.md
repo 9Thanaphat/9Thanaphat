@@ -1,3 +1,22 @@
+# Hello, I'm Thanaphat Tangcham
+
+**Computer Engineering Student**  
+Rajamangala University of Technology Thanyaburi (RMUTT)
+
+---
+
+## 🚀 About Me
+
+I am a Computer Engineering student with a strong passion for **full-stack web development**.  
+I enjoy building modern, user-friendly web applications and continuously improving my skills through hands-on projects.
+
+- Interested in **Frontend & Backend Development**
+- Experience with modern web technologies
+- Currently seeking a **Software Engineering Internship**
+- Eager to learn, collaborate, and contribute to real-world projects
+
+---
+
 ## Tech Stack
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
