@@ -1,21 +1,21 @@
-# 👋 Hello, I'm Thanaphat Tangcham
+# Hello, I'm Thanaphat Tangcham
 
-🎓 **Computer Engineering Student**  
+**Computer Engineering Student**  
 Rajamangala University of Technology Thanyaburi (RMUTT)  
-🎯 **Cadet at 42 Bangkok**
+**Cadet at 42 Bangkok**
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I am a Computer Engineering student with a strong passion for **full-stack web development** and **software engineering**.  
 I enjoy building modern, user-friendly web applications and strengthening my problem-solving skills through hands-on and peer-to-peer learning environments.
 
-- 💻 Interested in **Frontend & Backend Development**
-- 🧠 Strong foundation in **problem-solving & algorithms**
-- 🛠️ Experience with modern web technologies
-- 🎯 Currently seeking a **Software Engineering Internship**
-- 🤝 Eager to learn, collaborate, and contribute to real-world projects
+- Interested in **Frontend & Backend Development**
+- Strong foundation in **problem-solving & algorithms**
+- Experience with modern web technologies
+- Currently seeking a **Software Engineering Internship**
+- Eager to learn, collaborate, and contribute to real-world projects
 
 ---
 
