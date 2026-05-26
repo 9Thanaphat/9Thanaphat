@@ -14,7 +14,6 @@ I enjoy building modern, user-friendly web applications and strengthening my pro
 - Interested in **Frontend & Backend Development**
 - Strong foundation in **problem-solving & algorithms**
 - Experience with modern web technologies
-- Currently seeking a **Software Engineering Internship**
 - Eager to learn, collaborate, and contribute to real-world projects
 
 ---
