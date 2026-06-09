@@ -36,5 +36,5 @@ I enjoy building modern, user-friendly web applications and strengthening my pro
 </div>
 
 ## Certificate 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="473c4587-0bb6-465c-a534-5799d31a4111" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified](https://img.shields.io/badge/AWS-Cloud_Architecting-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/473c4587-0bb6-465c-a534-5799d31a4111/public_url)
 
