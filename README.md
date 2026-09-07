@@ -1,8 +1,7 @@
 # Hello, I'm Thanaphat Tangcham
 
 **Computer Engineering Student**  
-Rajamangala University of Technology Thanyaburi (RMUTT)  
-**Cadet at 42 Bangkok**
+Rajamangala University of Technology Thanyaburi (RMUTT)
 
 ---
 
